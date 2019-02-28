@@ -1,0 +1,7 @@
+---
+layout: post
+---
+<img src="{{ site.baseurl }}/images/banner.jpg">
+はじめまして
+ドラクエ10用のブログを作ってみました。
+どうぞよろしくお願い申し上げます(・∀・)
