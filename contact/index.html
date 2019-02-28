@@ -7,16 +7,16 @@ layout: default
     <div class="container">
         <h3>Contact Me</h3>
         <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
-        <form class="formrun" method="post" action="https://form.run/api/v1/r/arcmwa868u0jkr17s9v7fs6w">
+        <form method="post" class="formrun" action="https://form.run/api/v1/r/arcmwa868u0jkr17s9v7fs6w">
             <div class="row uniform">
                 <div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
-                <div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
+                <div class="6u 12u(xsmall)"><input type="text" data-formrun-type="email" name="email" id="email" placeholder="Email" data-formrun-required/></div>
             </div>
             <div class="row uniform">
-                <div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
+                <div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" data-formrun-required/></div>
             </div>
             <div class="row uniform">
-                <div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
+                <div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6" data-formrun-required></textarea></div>
             </div>
             <div class="row uniform">
                 <div class="12u">
