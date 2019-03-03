@@ -35,7 +35,7 @@ Inkscapeは無料で使えて、adobeのイラストレーターに似た機能�
 <br>
 <blockquote>
 	<p>アストルティア文字を日本語のひらがな・カタカナ・全角数字に対応させてフォントにしてみました。</p>
-	<cite lang="ja"><a href="http://dq10lisa.net/dq10_font.html" target="_blank" rel="nofollow">pixiv「アストルティア文字風フォント配布サイト」より引用</a></cite>
+	<cite lang="ja"><a href="http://dq10lisa.net/dq10_font.html" target="_blank" rel="nofollow">「アストルティア文字風フォント配布サイト」より引用</a></cite>
 </blockquote>
 
 久しぶりのInkscapeで、サイトに書いてある通りに途中まで作ったはいいのですが、
