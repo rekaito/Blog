@@ -23,7 +23,7 @@ Inkscapeは無料で使えて、adobeのイラストレーターに似た機能�
 <br>
 <br>
 <br>
-せっかくドラクエ10のブログに載せる魔法陣を書こうと思い、フォントもそれっぽいものを使おうと探してみると、アストルティア文字風フォントなるものを見つけました。
+せっかくドラクエ10のブログに載せる魔法陣を書くなら、フォントもそれっぽいものを使おうと探してみると、アストルティア文字風フォントなるものを見つけました。
 <br><br>
 そうです。ナドラガンド 炎の領域 豪炎の聖塔にもある、例のあの文字です。
 <br>
@@ -35,7 +35,7 @@ Inkscapeは無料で使えて、adobeのイラストレーターに似た機能�
 <br>
 <blockquote>
 	<p>アストルティア文字を日本語のひらがな・カタカナ・全角数字に対応させてフォントにしてみました。</p>
-	<cite lang="ja"><a href="http://dq10lisa.net/dq10_font.html" target="_blank" rel="nofollow">pixiv「INKscapeで魔法陣を作る」より引用</a></cite>
+	<cite lang="ja"><a href="http://dq10lisa.net/dq10_font.html" target="_blank" rel="nofollow">pixiv「アストルティア文字風フォント配布サイト」より引用</a></cite>
 </blockquote>
 
 久しぶりのInkscapeで、サイトに書いてある通りに途中まで作ったはいいのですが、
